@@ -1,0 +1,114 @@
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+
+	border-collapse: separate;
+  	border-spacing: 15px 50px;
+  	border-color: white;
+
+}
+th, td {
+	padding: 5px;
+	text-align: left;
+  	text-align: center;
+}
+
+/*  Cursos  */
+.tabla-center-cursos table{
+	margin-left:auto; 
+  	margin-right:auto;
+  	border-spacing: 25px;
+}
+
+#th-amarillo{
+	background-color: #a38b28;
+	color: white;
+	border-color: black;
+}
+
+#th-azul{
+	background-color: #004D80;
+	color: white;
+	border-color: black;
+}
+
+#th-verde{
+	background-color: #027001;
+	color: white;
+	border-color: black;
+}
+
+#th-rojo{
+	background-color: #EE230C;
+	color: white;
+	border-color: black;
+}
+
+#th-vacio{
+	background-color: white;
+	color: white;
+	border-color: white;
+}
+
+
+#circle-amarillo{
+	height: 100px;
+	width: 100px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 50%; /* may require vendor prefixes */
+  	background: #a38b28;
+  	border-color: black;
+  	color: #fff;
+  	font-size: 16px;
+}
+
+#circle-azul{
+	height: 100px;
+	width: 150px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 50%; /* may require vendor prefixes */
+  	background: #004D80;
+  	border-color: black;
+  	color: #fff;
+  	font-size: 16px;
+}
+
+#circle-verde{
+	height: 100px;
+	width: 150px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 50%; /* may require vendor prefixes */
+  	background: #027001;
+  	border-color: black;
+  	color: #fff;
+  	font-size: 16px;
+}
+
+#circle-rojo{
+	height: 120px;
+	width: 200px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 50%; /* may require vendor prefixes */
+  	background: #EE230C;
+  	border-color: black;
+  	color: #fff;
+  	font-size: 16px;
+}
+
+
+#letraAzul{
+	color: #004D80;
+}
+
+
+#letraVerde{
+	color: #027001;
+}

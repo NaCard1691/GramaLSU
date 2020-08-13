@@ -1,0 +1,146 @@
+header{
+	width: 100%;
+	height: 100px;
+	background: #208C66;
+}
+header h1{
+	display: inline-block;
+	color:#fff;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-top: 28px;
+	padding-bottom: 28px;
+	margin: 0px;
+}
+header > ol{
+	display: inline-block;
+}
+
+.breadcrumb{
+	margin-top: 28px;
+	background: transparent;
+	text-transform: uppercase;
+	color:#fff;
+}
+.breadcrumb a{
+	color:#fff;
+	text-decoration: none;
+}
+
+.breadcrumb a:hover{
+	text-decoration: none;
+	font-weight: bold;
+}
+.breadcrumb span{
+	padding: 5px;
+	background: #124e39;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+#conocenos{
+	margin-top: 20px;
+	font-family: "Times New Roman", Times, serif;
+}
+#conocenos h2{
+	font-weight: bold;
+	color: #124e39;
+	font-size: 36xpx;
+}
+#conocenos p{
+	font-weight: normal;
+	font-size: 18px;
+}
+
+
+#cursos{
+	font-family: "Times New Roman", Times, serif;
+}
+
+#cursos h2{
+	font-weight: bold;
+	color: #124e39;
+}
+
+#niveles{
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+#niveles h2{
+	font-weight: bold;
+	color: #124e39;
+}
+
+#inscripciones{
+	font-family: "Times New Roman", Times, serif;
+}
+
+#lenguas{
+	font-family: "Times New Roman", Times, serif;
+}
+
+#pruebaNivel{
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+#lenguas-titulo{
+	font-weight: bold;
+	color: #124e39;
+	font-size: 32px;
+}
+
+#servicios{
+	
+}
+
+#equipo{
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+#contacto-css{
+	font-family: "Times New Roman", Times, serif;
+}
+
+#contacto-css h6{
+	font-weight: bold;
+	color: #124e39;
+	font-size: 36xpx;
+}
+
+main{
+	margin-top: 20px;
+}
+.tab-content h3{
+	color:#124e39;
+	font-weight: bold;
+}
+.tab-content h4,.tab-content h5{
+	color: #208C66;
+	font-weight: bold;
+}
+.tab-content h4 {
+	margin-top: 40px;	
+	margin-bottom: 25px;
+}
+.tab-content h5 {
+	margin-top: 20px;	
+	margin-bottom: 20px;
+}
+.tab-content p, .tab-content span, .tab-content li{
+	color:#000;
+	font-size: 15px;
+}
+strong{
+	color:#208C66;
+	font-weight: bold;
+}
+footer{
+	margin-bottom: 0px;
+}
+.datos-cont{
+	margin-top: 20px;
+}
